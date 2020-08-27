@@ -1,1 +1,1 @@
-module github.com/btcsuite/snappy-go
+module github.com/ifishnet/snappy-go
